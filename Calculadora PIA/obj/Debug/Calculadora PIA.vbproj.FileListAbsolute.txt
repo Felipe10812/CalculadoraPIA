@@ -1,0 +1,12 @@
+C:\Users\felipe.acostac\source\repos\Calculadora PIA\Calculadora PIA\bin\Debug\Calculadora PIA.exe.config
+C:\Users\felipe.acostac\source\repos\Calculadora PIA\Calculadora PIA\bin\Debug\Calculadora PIA.exe
+C:\Users\felipe.acostac\source\repos\Calculadora PIA\Calculadora PIA\bin\Debug\Calculadora PIA.pdb
+C:\Users\felipe.acostac\source\repos\Calculadora PIA\Calculadora PIA\bin\Debug\Calculadora PIA.xml
+C:\Users\felipe.acostac\source\repos\Calculadora PIA\Calculadora PIA\obj\Debug\Calculadora PIA.vbproj.AssemblyReference.cache
+C:\Users\felipe.acostac\source\repos\Calculadora PIA\Calculadora PIA\obj\Debug\Calculadora_PIA.Resources.resources
+C:\Users\felipe.acostac\source\repos\Calculadora PIA\Calculadora PIA\obj\Debug\Calculadora PIA.vbproj.GenerateResource.cache
+C:\Users\felipe.acostac\source\repos\Calculadora PIA\Calculadora PIA\obj\Debug\Calculadora PIA.vbproj.CoreCompileInputs.cache
+C:\Users\felipe.acostac\source\repos\Calculadora PIA\Calculadora PIA\obj\Debug\Calculadora PIA.exe
+C:\Users\felipe.acostac\source\repos\Calculadora PIA\Calculadora PIA\obj\Debug\Calculadora PIA.xml
+C:\Users\felipe.acostac\source\repos\Calculadora PIA\Calculadora PIA\obj\Debug\Calculadora PIA.pdb
+C:\Users\felipe.acostac\source\repos\Calculadora PIA\Calculadora PIA\obj\Debug\Calculadora_PIA.Calculadora.resources
